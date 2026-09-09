@@ -1,0 +1,36 @@
+ERC report (2026-09-09T18:56:11, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(7500 mils, 1300 mils): Vertical Wire, length 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7800 mils, 1300 mils): Vertical Wire, length 250 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7800 mils, 1300 mils): Symbol #PWR059 Pin 1 [Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7800 mils, 1300 mils): Vertical Wire, length 3.937e-03 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8400 mils, 850 mils): Horizontal Wire, length 50 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8400 mils, 950 mils): Horizontal Wire, length 50 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8400 mils, 1050 mils): Horizontal Wire, length 50 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8400 mils, 1150 mils): Horizontal Wire, length 50 mils
+
+ ** ERC messages: 8  Errors 0  Warnings 8
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
